@@ -1,0 +1,16 @@
+{
+  "name": "dive-into-stream",
+  "version": "0.1.0",
+  "description": "dive into stream",
+  "main": "codes/readTheFile.js",
+  "dependencies": {
+    "http-server": "^0.7.2",
+    "through": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server slides"
+  },
+  "author": "Chriest Yu <jcppman@gmail.com>",
+  "license": "BSD"
+}
